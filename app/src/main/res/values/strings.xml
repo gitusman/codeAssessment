@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coding Assessment</string>
+    <string name="take_to_my_location_button">Take to my location button</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="full_name">Full name</string>
+    <string name="birthday">Birthday</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="i_want_to_subscribe_to_a_newsletter">I want to subscribe to a newsletter</string>
+    <string name="about_me">About me</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="saving">Saving...</string>
+</resources>
